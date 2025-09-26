@@ -1,5 +1,6 @@
 # 💫 About Me:
 Hi 👋, I'm Jay<br>Full-stack developer who loves building things and helping people. <br>Focused on clean UI, real-world impact, and solving meaningful problems through thoughtful design and smart development.
+
 [![wakatime](https://wakatime.com/badge/user/3319800a-4f54-4ed9-94d6-1689848d8c5b.svg)](https://wakatime.com/@3319800a-4f54-4ed9-94d6-1689848d8c5b)
 
 ## 🌐 Socials:
