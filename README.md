@@ -2,6 +2,7 @@
 Hi 👋, I'm Jay<br>Full-stack developer who loves building things and helping people. <br>Focused on clean UI, real-world impact, and solving meaningful problems through thoughtful design and smart development.
 
 [![wakatime](https://wakatime.com/badge/user/3319800a-4f54-4ed9-94d6-1689848d8c5b.svg)](https://wakatime.com/@3319800a-4f54-4ed9-94d6-1689848d8c5b)
+![Profile Views](https://komarev.com/ghpvc/?username=your-jayshende)
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/jay__shende) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/jay-shende-2a5505209) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/JayShende17) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:jayshende1709@gmail.com) 
