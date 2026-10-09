@@ -9,7 +9,7 @@ Hi 👋, I'm Full-stack developer who loves building things and helping people. 
 
 - 📫 How to reach me **jaayshende6@gmail.com**
 
-- 👨‍💻 All of my projects are available at **[unseenjs.xyz](https://unseenjs.xyz/)**
+- 👨‍💻 All of my projects are available at **[jay.runs-on.dev](https://jay.runs-on.dev/)**
 
 - 📝 I regularly write articles on **[learn.unseenjs.xyz](http://learn.unseenjs.xyz/)**
 
